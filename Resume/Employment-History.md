@@ -10,7 +10,7 @@ Pineapple SARL | Nice, France
 + Responbile for ordering, estimating and cost management for projects including urgent procurement of COVID-19 materials
 + Consulted with stakeholders to develop a system for managing menu content, updates and deployment cross media for five venues
 + Engaged with third party providers to facilitate publicity, events, and professional services. Partnered with DimeOn Music and Radio Monaco to produce and promote a monthly in-house radio show
-
+---
 10.2014–02.2018
 ## Senior Designer / Art Director
 ISA-i-motion GmbH | Magdeburg, Germany
@@ -20,7 +20,7 @@ ISA-i-motion GmbH | Magdeburg, Germany
 + Developed branding guidelines for print, digital and social media publications 
 + Created visual assets for high-profile clients such as Volkssolidarität, Deutsches Rotes Kreuz, and Synvia in Sachsen-Anhalt, Germany
 + Educated internal and external stakeholders about design and branding strategy using a presentation and workshop format
-
+---
 03.2010–11.2013
 ## Designer & Prepress Operator
 NCP Printing | Newcastle, Australia
